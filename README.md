@@ -7,6 +7,11 @@
 
 > *"The coordinate IS the seed. Zero bytes store infinity."*
 
+## Part of the BEYOND TRIBONACCI project
+[BEYOND-TRIBONACCI](https://github.com/MushroomFleet/BEYOND-TRIBONACCI)
+[Zerobytes-Skill](https://github.com/MushroomFleet/Zerobytes-Skill)
+[Braben-Building-Principles-Skill](https://github.com/MushroomFleet/Braben-Building-Principles-Skill)
+
 ---
 
 ## What is Zerobytes?
